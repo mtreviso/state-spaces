@@ -61,6 +61,7 @@ layer = {
     "sru": "src.models.sequence.rnns.sru.SRURNN",  # TODO not updated
     "lssl": "src.models.sequence.ss.lssl.LSSL",
     "s4": "src.models.sequence.ss.s4.S4",
+    "s4_attentive": "src.models.sequence.ss.s4_attentive.AttentiveS4",
     "standalone": "src.models.sequence.ss.standalone.s4.S4",
     "s4d": "src.models.sequence.ss.standalone.s4d.S4D",
     "s4_2d": "src.models.sequence.ss.s4_2d.StateSpace2D",
